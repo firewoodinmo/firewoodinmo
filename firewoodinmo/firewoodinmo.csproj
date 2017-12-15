@@ -195,6 +195,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Content\frontend\" />
+    <Folder Include="Content\Images\" />
+    <Folder Include="Content\jssor\" />
     <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
